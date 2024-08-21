@@ -1,9 +1,3 @@
 streamlit
 langchain-community
 openai
-pypdf
-io
-base64
-pypdf
-reportlab
-pdfrw
