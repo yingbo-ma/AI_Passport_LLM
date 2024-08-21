@@ -7,6 +7,5 @@ pypdf
 io
 base64
 pypdf
-fpdf
 reportlab
 pdfrw
