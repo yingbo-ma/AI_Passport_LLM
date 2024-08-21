@@ -149,7 +149,7 @@ def create_pdf(chat_history):
     pdf = canvas.Canvas(buffer, pagesize=letter)
     pdf.setFont("Helvetica", 10)
 
-    pdfmetrics.registerFont(TTFont('Arial', 'Arial.ttf'))
+    pdfmetrics.registerFont(TTFont('Arial', './Arial.ttf'))
 
     y = 750  # Initial y position
     margin = 50
