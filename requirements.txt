@@ -1,8 +1,6 @@
 streamlit
 langchain-community
-pyperclip
 openai
-tiktoken
 pypdf
 io
 base64
