@@ -3,11 +3,8 @@ import streamlit as st
 import openai
 from openai import OpenAI
 import os
-import pyperclip
 import base64
-import requests
 from pypdf import PdfReader
-from fpdf import FPDF
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.units import inch
